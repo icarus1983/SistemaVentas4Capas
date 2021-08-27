@@ -1,0 +1,146 @@
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+<<<<<<< HEAD
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+<<<<<<< Updated upstream
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+=======
+>>>>>>> Stashed changes
+>>>>>>> 1167bf13f7705f0cd3697287c621f0eb176819f2
+>>>>>>> 1ddcf905d55cc051bb72ee77b6a21abc4271e080
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources

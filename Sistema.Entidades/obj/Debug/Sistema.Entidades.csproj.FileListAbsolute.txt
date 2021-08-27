@@ -1,0 +1,24 @@
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\udemy\Modelo4Capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Guille\Documents\Visual Studio 2019\udemy\modelo4capas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
